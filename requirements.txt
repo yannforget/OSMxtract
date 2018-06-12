@@ -1,0 +1,10 @@
+requests
+click
+pyproj
+geojson
+shapely
+fiona
+rasterio
+geopy
+tqdm
+appdirs
