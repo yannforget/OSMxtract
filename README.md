@@ -2,6 +2,8 @@
 
 ## Description
 
+Note: in development, do not use in production.
+
 **OSMxtract** is a simple Python package that uses the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) to fetch [OpenStreetMap](https://www.openstreetmap.org) features and export them in a GeoJSON file.
 
 ## Installation
